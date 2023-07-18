@@ -20,7 +20,7 @@
 
 ---
 
-### My stats:
+### 📈My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyMP&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![GitHub stats](http://github-readme-stats.vercel.app/api?username=JimmyMP&show_icons=true&theme=radical)
